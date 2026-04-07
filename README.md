@@ -1,6 +1,7 @@
 # AdVantage Digital: Replicating RCT Ground Truth with Observational Methods
 
-**Author:** Duy Nguyen 
+**Author:** Duy Nguyen
+
 **Dataset:** Facebook Ad Campaign (2,000,000 users)
 
 ---
