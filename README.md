@@ -1,7 +1,6 @@
 # AdVantage Digital: Replicating RCT Ground Truth with Observational Methods
 
-**Course:** Digital Marketing — Foster School of Business, University of Washington  
-**Author:** duydnguyenn  
+**Author:** Duy Nguyen 
 **Dataset:** Facebook Ad Campaign (2,000,000 users)
 
 ---
