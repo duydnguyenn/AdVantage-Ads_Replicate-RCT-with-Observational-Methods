@@ -14,7 +14,7 @@ This project examines whether modern observational causal inference methods can 
 
 ## Research Question
 
-> *Can observational causal inference methods applied to treatment-group-only data reliably replicate the Average Treatment Effect on the Treated (ATT) obtained from a randomized controlled trial?*
+Can observational causal inference methods applied to treatment-group-only data reliably replicate the Average Treatment Effect on the Treated (ATT) obtained from a randomized controlled trial?
 
 ---
 
